@@ -1,16 +1,16 @@
 ### Hi there 👋
+<h1 align="center">Hi, I'm Prasoon</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-<!--
-**01Coolguy/01Coolguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on MERN Stack.
-- 🌱 I’m currently learning React development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Stack overflow Using Mern Stack**
+
+- 🌱 I’m currently learning web rtc and aws development.
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My GitHub repo]**
+
+- 📫 How to reach me **prasoonkumar696@gmail.com**
