@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi, I'm Prasoon</h1>
+
+<h1 align="center">Hi👋, I'm Prasoon</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
