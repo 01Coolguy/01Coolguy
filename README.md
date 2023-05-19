@@ -39,8 +39,7 @@
 <br/>
 
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=01Coolguy"/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01coolguy&" alt="01coolguy" /></p>
 
 
 
