@@ -38,10 +38,18 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=01Coolguy"/></a>
 
 
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=01coolguy&show_icons=true&locale=en&layout=compact" alt="01coolguy" /></p>
 
 
 
