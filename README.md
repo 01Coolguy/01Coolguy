@@ -51,8 +51,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01coolguy" alt="01coolguy" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=01coolguy&show_icons=true&locale=en&layout=compact" alt="01coolguy" /></p>
-
 
 
                                                                                                      
